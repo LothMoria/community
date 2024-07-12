@@ -1,0 +1,8 @@
+---
+id: poke-clock
+name: Poke Clock
+summary: Time/Weather, PCG Spawns
+desc: Display current time and weather. Displays when there is a Pokemon Community Game pokemon spawn. Modified from Weather Clock by J. Keybl.
+author: LothMoria
+fileName: poke_clock.star
+packageName: pokeclock
